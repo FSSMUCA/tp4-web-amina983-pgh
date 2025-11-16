@@ -1,0 +1,10 @@
+
+h2 {
+  font-weight: 700;
+  color: #1a47db;
+}
+
+.card img {
+  height: 180px;
+  object-fit: cover;
+}
